@@ -10,7 +10,7 @@
 ------------
 
 
-##### Loon
+#### Loon
 
 Loon可直接复制下面的内容粘贴到`[Remote Rule]`下，请不要一次全部复制，建议逐次添加，避免代理工具无限崩溃。
 
@@ -99,7 +99,7 @@ https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_79.list, po
 ------------
 
 
-##### Surge - DOMAIN-SET格式
+#### Surge - DOMAIN-SET格式
 
 Sure可直接复制下面的内容粘贴到`[Rule]`下，请不要一次全部复制，建议逐次添加，避免代理工具无限崩溃。
 
@@ -188,7 +188,7 @@ DOMAIN-SET, https://raw.githubusercontent.com/luestr/CrazyRule/main/Surge/ad-sur
 ------------
 
 
-##### Quantumult X - 请勿开解析器
+#### Quantumult X - 请勿开解析器
 
 Quantumult X可直接复制下面的内容粘贴到`[filter_remote]`下，请不要一次全部复制，建议逐次添加，避免代理工具无限崩溃。
 
@@ -277,7 +277,7 @@ https://raw.githubusercontent.com/luestr/CrazyRule/main/QuantumultX/ad-quantumul
 ------------
 
 
-##### Clash / Stash - 暂无统一方法提供
+#### Clash / Stash - 暂无统一方法提供
 
 ```
 https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_1.yaml
@@ -372,14 +372,14 @@ https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_79.yaml
 
 ❗️ 规则文件在200MB~310MB左右，可能比较容易下载规则失败，需要较好的网络。
 
-##### Loon / Surge / LanceX / Shadowrocket
+#### Loon / Surge / LanceX / Shadowrocket
 
 https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-surge.yaml
 
-##### Quantumult X
+#### Quantumult X
 
 https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-quantumult.yaml
 
-##### Clash / Stash
+#### Clash / Stash
 
 https://github.com/Potterli20/file/releases/download/ad-hosts-pro/ad-clash.yaml
