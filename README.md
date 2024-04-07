@@ -10,7 +10,6 @@
 
 ------------
 
-
 #### Loon - RULE-SET格式
 
 Loon可直接复制下面的内容粘贴到`[Remote Rule]`下，请不要一次全部复制，建议逐次添加，避免代理工具无限崩溃。
@@ -99,6 +98,90 @@ https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_79.list, po
 
 ------------
 
+#### Egern / LanceX / Shadowrocket- RULE-SET格式
+```
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_1.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_2.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_3.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_4.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_5.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_6.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_7.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_8.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_9.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_10.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_11.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_12.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_13.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_14.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_15.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_16.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_17.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_18.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_19.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_20.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_21.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_22.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_23.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_24.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_25.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_26.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_27.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_28.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_29.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_30.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_31.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_32.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_33.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_34.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_35.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_36.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_37.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_38.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_39.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_40.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_41.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_42.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_43.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_44.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_45.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_46.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_47.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_48.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_49.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_50.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_51.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_52.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_53.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_54.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_55.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_56.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_57.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_58.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_59.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_60.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_61.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_62.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_63.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_64.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_65.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_66.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_67.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_68.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_69.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_70.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_71.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_72.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_73.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_74.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_75.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_76.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_77.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_78.list
+https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_79.list
+```
+
+------------
 
 #### Surge - DOMAIN-SET格式
 
@@ -188,7 +271,6 @@ DOMAIN-SET, https://raw.githubusercontent.com/luestr/CrazyRule/main/Surge/ad-sur
 
 ------------
 
-
 #### Quantumult X - 专用格式，请勿开解析器
 
 Quantumult X可直接复制下面的内容粘贴到`[filter_remote]`下，请不要一次全部复制，建议逐次添加，避免代理工具无限崩溃。
@@ -276,7 +358,6 @@ https://raw.githubusercontent.com/luestr/CrazyRule/main/QuantumultX/ad-quantumul
 ```
 
 ------------
-
 
 #### Clash / Stash 专用格式
 
@@ -445,7 +526,6 @@ rules:
 ```
 
 ------------
-
 
 ## ⚠ 未拆分的规则文件
 
