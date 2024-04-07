@@ -99,6 +99,7 @@ https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_79.list, po
 ------------
 
 #### Egern / LanceX / Shadowrocket- RULE-SET格式
+上面三款代理工具均支持`RULE-SET`格式的规则，暂不提供对应的配置写法，仅提供切片后的规则地址。
 ```
 https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_1.list
 https://raw.githubusercontent.com/luestr/CrazyRule/main/Loon/ad-loon_2.list
