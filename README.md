@@ -282,85 +282,85 @@ https://raw.githubusercontent.com/luestr/CrazyRule/main/QuantumultX/ad-quantumul
 
 ```
 rule-providers:
-疯狂的规则1: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_1.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_1.yaml}
-疯狂的规则2: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_2.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_2.yaml}
-疯狂的规则3: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_3.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_3.yaml}
-疯狂的规则4: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_4.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_4.yaml}
-疯狂的规则5: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_5.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_5.yaml}
-疯狂的规则6: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_6.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_6.yaml}
-疯狂的规则7: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_7.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_7.yaml}
-疯狂的规则8: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_8.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_8.yaml}
-疯狂的规则9: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_9.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_9.yaml}
-疯狂的规则10: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_10.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_10.yaml}
-疯狂的规则11: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_11.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_11.yaml}
-疯狂的规则12: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_12.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_12.yaml}
-疯狂的规则13: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_13.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_13.yaml}
-疯狂的规则14: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_14.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_14.yaml}
-疯狂的规则15: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_15.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_15.yaml}
-疯狂的规则16: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_16.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_16.yaml}
-疯狂的规则17: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_17.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_17.yaml}
-疯狂的规则18: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_18.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_18.yaml}
-疯狂的规则19: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_19.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_19.yaml}
-疯狂的规则20: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_20.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_20.yaml}
-疯狂的规则21: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_21.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_21.yaml}
-疯狂的规则22: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_22.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_22.yaml}
-疯狂的规则23: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_23.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_23.yaml}
-疯狂的规则24: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_24.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_24.yaml}
-疯狂的规则25: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_25.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_25.yaml}
-疯狂的规则26: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_26.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_26.yaml}
-疯狂的规则27: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_27.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_27.yaml}
-疯狂的规则28: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_28.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_28.yaml}
-疯狂的规则29: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_29.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_29.yaml}
-疯狂的规则30: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_30.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_30.yaml}
-疯狂的规则31: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_31.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_31.yaml}
-疯狂的规则32: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_32.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_32.yaml}
-疯狂的规则33: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_33.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_33.yaml}
-疯狂的规则34: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_34.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_34.yaml}
-疯狂的规则35: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_35.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_35.yaml}
-疯狂的规则36: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_36.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_36.yaml}
-疯狂的规则37: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_37.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_37.yaml}
-疯狂的规则38: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_38.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_38.yaml}
-疯狂的规则39: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_39.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_39.yaml}
-疯狂的规则40: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_40.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_40.yaml}
-疯狂的规则41: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_41.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_41.yaml}
-疯狂的规则42: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_42.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_42.yaml}
-疯狂的规则43: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_43.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_43.yaml}
-疯狂的规则44: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_44.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_44.yaml}
-疯狂的规则45: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_45.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_45.yaml}
-疯狂的规则46: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_46.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_46.yaml}
-疯狂的规则47: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_47.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_47.yaml}
-疯狂的规则48: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_48.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_48.yaml}
-疯狂的规则49: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_49.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_49.yaml}
-疯狂的规则50: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_50.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_50.yaml}
-疯狂的规则51: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_51.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_51.yaml}
-疯狂的规则52: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_52.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_52.yaml}
-疯狂的规则53: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_53.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_53.yaml}
-疯狂的规则54: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_54.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_54.yaml}
-疯狂的规则55: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_55.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_55.yaml}
-疯狂的规则56: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_56.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_56.yaml}
-疯狂的规则57: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_57.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_57.yaml}
-疯狂的规则58: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_58.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_58.yaml}
-疯狂的规则59: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_59.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_59.yaml}
-疯狂的规则60: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_60.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_60.yaml}
-疯狂的规则61: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_61.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_61.yaml}
-疯狂的规则62: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_62.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_62.yaml}
-疯狂的规则63: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_63.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_63.yaml}
-疯狂的规则64: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_64.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_64.yaml}
-疯狂的规则65: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_65.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_65.yaml}
-疯狂的规则66: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_66.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_66.yaml}
-疯狂的规则67: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_67.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_67.yaml}
-疯狂的规则68: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_68.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_68.yaml}
-疯狂的规则69: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_69.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_69.yaml}
-疯狂的规则70: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_70.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_70.yaml}
-疯狂的规则71: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_71.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_71.yaml}
-疯狂的规则72: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_72.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_72.yaml}
-疯狂的规则73: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_73.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_73.yaml}
-疯狂的规则74: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_74.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_74.yaml}
-疯狂的规则75: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_75.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_75.yaml}
-疯狂的规则76: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_76.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_76.yaml}
-疯狂的规则77: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_77.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_77.yaml}
-疯狂的规则78: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_78.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_78.yaml}
-疯狂的规则79: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_79.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_79.yaml}
+  疯狂的规则1: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_1.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_1.yaml}
+  疯狂的规则2: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_2.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_2.yaml}
+  疯狂的规则3: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_3.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_3.yaml}
+  疯狂的规则4: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_4.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_4.yaml}
+  疯狂的规则5: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_5.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_5.yaml}
+  疯狂的规则6: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_6.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_6.yaml}
+  疯狂的规则7: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_7.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_7.yaml}
+  疯狂的规则8: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_8.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_8.yaml}
+  疯狂的规则9: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_9.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_9.yaml}
+  疯狂的规则10: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_10.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_10.yaml}
+  疯狂的规则11: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_11.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_11.yaml}
+  疯狂的规则12: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_12.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_12.yaml}
+  疯狂的规则13: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_13.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_13.yaml}
+  疯狂的规则14: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_14.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_14.yaml}
+  疯狂的规则15: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_15.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_15.yaml}
+  疯狂的规则16: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_16.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_16.yaml}
+  疯狂的规则17: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_17.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_17.yaml}
+  疯狂的规则18: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_18.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_18.yaml}
+  疯狂的规则19: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_19.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_19.yaml}
+  疯狂的规则20: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_20.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_20.yaml}
+  疯狂的规则21: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_21.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_21.yaml}
+  疯狂的规则22: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_22.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_22.yaml}
+  疯狂的规则23: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_23.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_23.yaml}
+  疯狂的规则24: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_24.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_24.yaml}
+  疯狂的规则25: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_25.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_25.yaml}
+  疯狂的规则26: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_26.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_26.yaml}
+  疯狂的规则27: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_27.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_27.yaml}
+  疯狂的规则28: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_28.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_28.yaml}
+  疯狂的规则29: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_29.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_29.yaml}
+  疯狂的规则30: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_30.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_30.yaml}
+  疯狂的规则31: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_31.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_31.yaml}
+  疯狂的规则32: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_32.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_32.yaml}
+  疯狂的规则33: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_33.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_33.yaml}
+  疯狂的规则34: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_34.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_34.yaml}
+  疯狂的规则35: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_35.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_35.yaml}
+  疯狂的规则36: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_36.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_36.yaml}
+  疯狂的规则37: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_37.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_37.yaml}
+  疯狂的规则38: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_38.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_38.yaml}
+  疯狂的规则39: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_39.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_39.yaml}
+  疯狂的规则40: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_40.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_40.yaml}
+  疯狂的规则41: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_41.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_41.yaml}
+  疯狂的规则42: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_42.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_42.yaml}
+  疯狂的规则43: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_43.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_43.yaml}
+  疯狂的规则44: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_44.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_44.yaml}
+  疯狂的规则45: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_45.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_45.yaml}
+  疯狂的规则46: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_46.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_46.yaml}
+  疯狂的规则47: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_47.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_47.yaml}
+  疯狂的规则48: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_48.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_48.yaml}
+  疯狂的规则49: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_49.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_49.yaml}
+  疯狂的规则50: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_50.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_50.yaml}
+  疯狂的规则51: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_51.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_51.yaml}
+  疯狂的规则52: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_52.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_52.yaml}
+  疯狂的规则53: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_53.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_53.yaml}
+  疯狂的规则54: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_54.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_54.yaml}
+  疯狂的规则55: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_55.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_55.yaml}
+  疯狂的规则56: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_56.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_56.yaml}
+  疯狂的规则57: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_57.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_57.yaml}
+  疯狂的规则58: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_58.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_58.yaml}
+  疯狂的规则59: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_59.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_59.yaml}
+  疯狂的规则60: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_60.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_60.yaml}
+  疯狂的规则61: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_61.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_61.yaml}
+  疯狂的规则62: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_62.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_62.yaml}
+  疯狂的规则63: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_63.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_63.yaml}
+  疯狂的规则64: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_64.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_64.yaml}
+  疯狂的规则65: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_65.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_65.yaml}
+  疯狂的规则66: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_66.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_66.yaml}
+  疯狂的规则67: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_67.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_67.yaml}
+  疯狂的规则68: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_68.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_68.yaml}
+  疯狂的规则69: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_69.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_69.yaml}
+  疯狂的规则70: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_70.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_70.yaml}
+  疯狂的规则71: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_71.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_71.yaml}
+  疯狂的规则72: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_72.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_72.yaml}
+  疯狂的规则73: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_73.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_73.yaml}
+  疯狂的规则74: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_74.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_74.yaml}
+  疯狂的规则75: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_75.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_75.yaml}
+  疯狂的规则76: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_76.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_76.yaml}
+  疯狂的规则77: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_77.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_77.yaml}
+  疯狂的规则78: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_78.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_78.yaml}
+  疯狂的规则79: {type: http, behavior: classical, interval: 86400, path: ./rule-providers/ad-clash_79.yaml, url: https://raw.githubusercontent.com/luestr/CrazyRule/main/Clash/ad-clash_79.yaml}
 
 rules: 
   - RULE-SET,疯狂的规则1,REJECT
